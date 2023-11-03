@@ -1,4 +1,5 @@
 tomorrow task
 interview questions about git 
 git commands 
-will talk about gi stash
+will talk about git stash
+git lab and git bash
