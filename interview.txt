@@ -1,0 +1,4 @@
+tomorrow task
+interview questions about git 
+git commands 
+will talk about gi stash
